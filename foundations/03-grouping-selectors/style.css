@@ -1,0 +1,8 @@
+.yes,
+.no {font-size: 28px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;}
+
+.no {background-color: yellow;}
+.yes {color: aliceblue; 
+background-color: black;}
+
+
